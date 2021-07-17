@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true)
+[![k-kbk's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kbk)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
