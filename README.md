@@ -1,4 +1,4 @@
-## Hi, there! I am Bokyeom Kim
+## Hi! I am Bokyeom Kim
 #### 📌 Majoring in Convergence Software 
 #### 📌 Interesting in Back-End
 #### ✏ Studying: Java, Node.js
