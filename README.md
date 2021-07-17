@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Bokyeom%20Kim&fontSize=70&fontAlign=70&fontColor=F6F6F6&color=003399&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Bokyeom%20Kim&fontSize=70&fontAlign=70&fontColor=F6F6F6&color=003399&fontSize=70)
 
 [![k-kbk's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-kbk&theme=algolia&hide=prs,issuses,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
