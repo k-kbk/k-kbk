@@ -1,7 +1,7 @@
-# Welcome!
+## Welcome!
 ### 📌 I am Bokyeom Kim, from Republic of Korea 
 ### 📌 Majoring in Convergence Software
-# Studying
+## Studying
 ### ✏ Java
 ### ✏ Node.js
 
