@@ -1,4 +1,4 @@
-# Hi there!
+# Welcome!
 ### I am Bokyeom Kim, from Republic of Korea 
 ### 📌 Majoring in Convergence Software
 ### ✏ Studying
